@@ -1,0 +1,42 @@
+img.img-responsive {
+    width:  100%;
+    height:  auto;
+}
+
+.ahorro {font-family: 'Roboto', sans-serif;font-size: 1rem;}
+
+.descripcion {
+    font-family: 'Roboto', sans-serif;
+    font-size:  1.3rem;
+    color: #ffbe00;
+}
+
+.producto {
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.8em;
+}
+
+.precio {
+    font-size: 1.5rem;
+}
+.col-md-3.producto {
+    padding: 2%;
+}
+.image {
+    padding: 3%;
+}
+
+.product a {
+    top: 100px;
+    left: 25%;
+    position:  absolute;
+    right: 25%;
+    cursor: pointer;
+    background-color: #fbce3d;
+    color: #e56538;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+

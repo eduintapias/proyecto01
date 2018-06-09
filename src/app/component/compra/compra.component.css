@@ -1,0 +1,51 @@
+.col-md-8.textos {
+    font-family: 'Roboto', sans-serif;
+    text-align:  center;
+    padding: 9%;
+}
+.col-md-4.botoncomprar {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: 7%;
+}
+.comprarahora {
+    cursor:  pointer;
+    background: #0081ca;
+    padding: 4%;
+    color:  #fff;
+}
+.suma {
+    padding: 4%;
+    background: #eee;
+}
+.titulo {
+    font-size: 1.5rem;
+    color: #0081ca;
+}
+.col-md-5.precio {
+    padding:  3%;
+    text-align:  center;
+    background:  #eee;
+}
+.col-md-2.precio {
+    padding: 3%;
+}
+.col-md-2.precio {
+    padding: 3%;
+    background: #abab38;
+}
+
+.col-md-3.precio {
+    padding-top: 7px;
+}
+input.form-control {
+    border-color: #eee;
+}
+
+.col-md-3.precio {
+    background: #eee;
+}
+
+input.form-control {
+    background:  #eee;
+}
